@@ -27,5 +27,7 @@ def pakar():
         
     return render_template('pakar.html', hasil=hasil)
 
+app = app
+
 if __name__ == '__main__':
     app.run(debug=True, port=5051)
