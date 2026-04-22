@@ -247,17 +247,6 @@ def evaluasi_pakar(usia, bb, jeda, demam, penyakit_berat, obat, hamil, haid, tat
 
 ---
 
-## Informasi Kontak
-
-| Item | Keterangan |
-|------|-----------|
-| **Project** | Responsi Praktikum KB (Kecerdasan Buatan) |
-| **Release** | v1.0.0 |
-| **Port** | 5051 |
-| **Copyright** | © 2026 DonorExpert AI |
-
----
-
 ## Catatan Penting
 
 ⚠️ **DISCLAIMER:**
